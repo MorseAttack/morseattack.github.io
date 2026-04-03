@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+hgroup h1,
+hgroup p { /* hgroup内のサブタイトルがpの場合 */
+  line-height: 1.5; /* または 0.9, 0.8など */
+  margin: 0;      /* 余白も同時に詰める */
+}
+
+h2 {
+  padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
+  color: #494949;/*文字色*/
+  background: #f4f4f4;/*背景色*/
+  border-left: solid 5px #7db4e6;/*左線*/
+  border-bottom: solid 3px #d7d7d7;/*下線*/
+}
+
+h3 {
+  position: relative; /* 点の配置基準をh3自身にする */
+  padding-left: 20px; /* 点を表示するスペースを空ける */
+}
+
+h3::before {
+  content: '・'; /* 点の文字 */
+  position: absolute; /* 位置を絶対配置に */
+  left: 0; /* h3の左端に配置 */
+  color: #333; /* 点の色 */
+}
+
+.date {
+      text-align: end;
+}
+
+.title {
+    text-align: center;
+}
+
+.indent {
+  padding-left: 20px; /* 全体的に20px右に移動 */
+}
+
+.underl {
+  display: inline; /* または inline-block */
+  border-bottom: dashed 2px #b8b8b8;
+}
+
+.bolds {
+  font-weight: bold; /* 太字にする */
+}
+
+.lists {
+  display: inline-block; /* これが必須 */
+  width: 18ch;           /* 幅を指定 */
+}
