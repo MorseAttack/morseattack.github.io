@@ -1,14 +1,12 @@
 <table align="right">
 	<thead>
 		<tr>
-			<th style="text-align:center"><a href="README.md">英語</a></th>
+			<th style="text-align:center"><a href="README">英語</a></th>
 			<th style="text-align:center">日本語</th>
 		</tr>
 	</thead>
 </table>
 <br><br>
-
-# <center>Morse Attack</center>
 
 ![Morse Attack](/image/FeatureGraphics.png)
 

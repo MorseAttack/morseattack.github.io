@@ -2,13 +2,11 @@
 	<thead>
 		<tr>
 			<th style="text-align:center">English</th>
-			<th style="text-align:center"><a href="README_ja.md">Japanese</a></th>
+			<th style="text-align:center"><a href="README_ja">Japanese</a></th>
 		</tr>
 	</thead>
 </table>
 <br><br>
-
-# <center>Morse Attack</center>
 
 ![Morse Attack](/image/FeatureGraphics.png)
 
