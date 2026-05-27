@@ -8,7 +8,9 @@
 </table>
 <br><br>
 
-![Morse Attack](/image/FeatureGraphics.png)
+<div align="center">
+    <img src="image/FeatureGraphics.png" alt="Morse Attack">
+</div>
 
 "Morse Attack" is a shooter game. Aim and shoot down the letter force attacking from the sky using Morse code. If they reach the ground, it's game over.
 
@@ -30,19 +32,25 @@ You can install it from Google Play.
 
 ### （０）Screen display
 
-![Screen Overview](/image/ScreenOverview_en.png)
+<div align="center">
+    <img src="image/ScreenOverview_en.png" alt="Screen Overview">
+</div>
 
 ### （１）Press the start button
 
 The letter force (enemy) will begin its advance.
 
-![Input Morse](/image/Start_en.png)
+<div align="center">
+    <img src="image/Start_en.png" alt="Start Button">
+</div>
 
 ### （２）Aim
 
 Use the dash (-) and dot (.) buttons to enter Morse code. After a "letter space" time, the Morse code will be converted to letters.
 
-![Input Morse](/image/InputMorse_en.png)
+<div align="center">
+    <img src="image/InputMorse_en.png" alt="Input Morse">
+</div>
 
 If you make a mistake, the Cancel (C) button will delete one character. Please re-enter the incorrect character.
 
@@ -60,7 +68,9 @@ Press the Shot (S) button to shoot down targets. When an attack hits, the target
 
 If the enemy reaches the ground, it's game over.
 
-![Game Over](/image/GameOver_en.png)
+<div align="center">
+    <img src="image/GameOver_en.png" alt="Game Over">
+</div>
 
 ## Other rules
 
@@ -105,7 +115,9 @@ If the enemy reaches the ground, it's game over.
 
   To unlock, press another button.
 
-![Lock](/image/Lock_en.png)
+<div align="center">
+    <img src="image/Lock_en.png" alt="Lock">
+</div>
 
 - Random shotting
 

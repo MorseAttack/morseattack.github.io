@@ -8,7 +8,9 @@
 </table>
 <br><br>
 
-![Morse Attack](/image/FeatureGraphics.png)
+<div align="center">
+    <img src="image/FeatureGraphics.png" alt="Morse Attack">
+</div>
 
 「Morse Attack」はシューティングゲームです。上空から攻めて来る文字列軍団を、モールス符号で照準を合わせて、撃ち落としてください。地上まで攻め込まれたらゲームオーバーです。
 
@@ -30,19 +32,25 @@ Google Playからインストールできます。
 
 ### （０）画面表示
 
-![Screen Overview](/image/ScreenOverview_ja.png)
+<div align="center">
+    <img src="image/ScreenOverview_ja.png" alt="Screen Overview">
+</div>
 
 ### （１）スタートボタンを押す
 
 文字列軍団（敵）の進軍が開始されます。
 
-![Input Morse](/image/Start_ja.png)
+<div align="center">
+    <img src="image/image/Start_ja.png" alt="Start Button">
+</div>
 
 ### （２）照準を合わせる
 
 ダッシュ（-）とドット（.）ボタンを操作してモールス符号を入力して下さい。レタースペース分の時間が経過すると、モールス符号は文字に変換されます。
 
-![Input Morse](/image/InputMorse_ja.png)
+<div align="center">
+    <img src="image/InputMorse_ja.png" alt="Input Morse">
+</div>
 
 入力を間違えたら、キャンセル（C）ボタンで１文字が消えます。間違えた文字を再入力して下さい。
 
@@ -60,7 +68,9 @@ Google Playからインストールできます。
 
 地上まで攻め込まれたら、ゲームオーバーです。
 
-![Game Over](/image/GameOver_ja.png)
+<div align="center">
+    <img src="image/GameOver_ja.png" alt="Game Over">
+</div>
 
 ## その他ルール
 
@@ -105,7 +115,9 @@ Google Playからインストールできます。
 
   ロックの解除は他のボタンを押してください。
 
-![Lock](/image/Lock_ja.png)
+<div align="center">
+    <img src="image/Lock_ja.png" alt="Lock">
+</div>
 
 - 乱れ打ち
 
