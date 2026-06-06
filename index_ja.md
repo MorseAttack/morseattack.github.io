@@ -41,7 +41,7 @@ Google Playからインストールできます。
 文字列軍団（敵）の進軍が開始されます。
 
 <div align="center">
-    <img src="image/image/Start_ja.png" alt="Start Button">
+    <img src="image/Start_ja.png" alt="Start Button">
 </div>
 
 ### （２）照準を合わせる
